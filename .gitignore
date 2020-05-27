@@ -14,4 +14,4 @@ Saved
 *.xcworkspace
 
 #Ignore FMOD plugin since I can just install it locally. No need to clutter the git-repo with it.
-Plugins/FMODStudio
+#Plugins/FMODStudio
